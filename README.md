@@ -35,7 +35,7 @@ I'm Rafael Dagostim, a computer engineering student at SATC university and curre
 
 #### You can find me in:
 <div>
-  <a href = "mailto:rafael.dagostim.pessoal@gmail.com"><img src="https://img.shields.io/badge/-Gmail-282A36?style=flat-square&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:rafaeldagostim.pessoal@gmail.com"><img src="https://img.shields.io/badge/-Gmail-282A36?style=flat-square&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rafael-dagostim-0909681a2" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-282A36?style=flat-square&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
