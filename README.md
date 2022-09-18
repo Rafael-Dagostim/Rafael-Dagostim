@@ -1,15 +1,19 @@
 ## Hello ~world~! 👋
 
+<p align="center"><b><i>recomend use this page in darkmode 🌙</i></b></p><br>
+
 I'm Rafael Dagostim, a computer engineering student at SATC university and currently working as back-end developer using C# and NodeJs.
 
 🎯 My future goals are to learn about front-end development and DevOps, but never stop evolving my skills as a back-end developer.
 
 ✨ My hobbies are playing some games with friends and trying out new projects with microcontrollers. 
 
+
+
 <div align="center">
   <a href="https://github.com/Rafael-Dagostim">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rafael-Dagostim&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-Dagostim&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rafael-Dagostim&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-Dagostim&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 ##
@@ -24,9 +28,8 @@ I'm Rafael Dagostim, a computer engineering student at SATC university and curre
   <img align="center" alt="python-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />     
 </div>
 
-#### Databases that I worked on:
+#### Databases I've already worked with:
 <div id="database" style="display: inline_block"><br>
-  <img align="center" alt="sql-server-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
   <img align="center" alt="postgres-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   <img align="center" alt="mongodb-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 </div>
