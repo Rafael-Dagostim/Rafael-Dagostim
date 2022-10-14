@@ -1,12 +1,12 @@
-## Hello ~world~! 👋
+## Hello ~world~!
 
 <p align="center"><b><i>recomend use this page in darkmode 🌙</i></b></p><br>
 
-I'm Rafael Dagostim, a computer engineering student at SATC university and currently working as back-end developer using C# and NodeJs.
+I'm a computer engineering student at SATC university and currently working as back-end developer using C# and NodeJs.
 
-🎯 My future goals are to learn about front-end development and DevOps, but never stop evolving my skills as a back-end developer.
+<!--- 🎯 My future goals are to learn about front-end development and DevOps, but never stop evolving my skills as a back-end developer. --->
 
-✨ My hobbies are playing some games with friends and trying out new projects with microcontrollers. 
+<!--- ✨ My hobbies are playing some games with friends and trying out new projects with microcontrollers. --->
 
 
 
