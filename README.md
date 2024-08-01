@@ -2,7 +2,7 @@
 
 <p align="center"><b><i>recomend use this page in darkmode 🌙</i></b></p><br>
 
-I'm a computer engineering student at SATC university and currently working as back-end developer using C# and NodeJs.
+I'm a computer engineering student at SATC university and currently working as full-stack developer with Nest and React.
 
 <!--- 🎯 My future goals are to learn about front-end development and DevOps, but never stop evolving my skills as a back-end developer. --->
 
@@ -12,7 +12,6 @@ I'm a computer engineering student at SATC university and currently working as b
 
 <div align="center">
   <a href="https://github.com/Rafael-Dagostim">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rafael-Dagostim&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-Dagostim&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
