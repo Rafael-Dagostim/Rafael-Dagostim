@@ -1,43 +1,67 @@
-## Hello ~world~!
+# Rafael Dagostim
 
-<p align="center"><b><i>recomend use this page in darkmode 🌙</i></b></p><br>
+**Backend Developer · AI Agents · AWS Serverless · Node.js · TypeScript**
 
-I'm a computer engineering student at SATC university and currently working as full-stack developer with Nest and React.
+Full stack developer with a strong backend focus and 5+ years of experience building scalable, secure, and high-performance systems. Passionate about applied AI, clean architecture, and automation. Currently building autonomous AI agents at [LaunchPad Digital](https://www.launchpaddigital.com.br).
 
-<!--- 🎯 My future goals are to learn about front-end development and DevOps, but never stop evolving my skills as a back-end developer. --->
+---
 
-<!--- ✨ My hobbies are playing some games with friends and trying out new projects with microcontrollers. --->
+## 🛠 Tech stack
 
+**Languages**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
+**Cloud & DevOps**
+![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat&logo=awslambda&logoColor=white)
+![Amazon SQS](https://img.shields.io/badge/SQS-FF9900?style=flat&logo=amazonsqs&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazondynamodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-<div align="center">
-  <a href="https://github.com/Rafael-Dagostim">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-Dagostim&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+**AI & Automation**
+![AI Agents](https://img.shields.io/badge/AI_Agents-7C3AED?style=flat)
+![RAG Systems](https://img.shields.io/badge/RAG_Systems-7C3AED?style=flat)
+![LLM Integration](https://img.shields.io/badge/LLM_Integration-7C3AED?style=flat)
 
-##
+**Databases**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
-### My main Languages and Runtimes:
-<div id="programing-languages" style="display: inline_block"><br>
-  <img align="center" alt="csharp-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-  <img align="center" alt="javascript-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="typescript-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img align="center" alt="python-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />     
-  <img align="center" alt="python-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />     
-  <img align="center" alt="python-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />     
-</div>
+---
 
-### Databases I've already worked with:
-<div id="database" style="display: inline_block"><br>
-  <img align="center" alt="postgres-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-  <img align="center" alt="mongodb-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-</div>
+## 🚀 What I'm working on
 
-##
+- 🤖 **Autonomous AI agents** — building agents that navigate, process, and summarize educational content using LLMs
+- ⚡ **Serverless architecture** — event-driven systems on AWS (Lambda, SQS, SNS, DynamoDB)
+- 🔗 **AI integrations** — connecting AI solutions to communication platforms like Slack and WhatsApp
 
-### You can find me in:
-<div>
-  <a href = "mailto:rafaeldagostim.pessoal@gmail.com"><img src="https://img.shields.io/badge/-Gmail-282A36?style=flat-square&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafael-dagostim-0909681a2" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-282A36?style=flat-square&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+---
 
+## 💼 Experience highlights
+
+- Reduced critical system processing time **from 30s to 5s** through architecture optimization at AGPR5
+- Built **blockchain-integrated REST APIs** for smart contract generation at Liqi Digital Assets
+- Implemented **event-driven microservices** with AWS Lambda, SQS and DynamoDB in a fintech environment
+- Developed **IoT systems** integrating Node.js with MQTT and Modbus field device protocols
+- Built a complete **SSO system with TOTP** and token-based authentication across multiple APIs
+
+---
+
+## 🎓 Education
+
+**Computer Engineering** — SATC (2021–2025)  
+**Technical Degree in Computer Science** — CEDUP Abílio Paulo (2018–2020)
+
+---
+
+## 📫 Get in touch
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-dagostim-0909681a2)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:rafaeldagostim.pessoal@gmail.com)
+
+---
+
+*Always learning something new ☕*
