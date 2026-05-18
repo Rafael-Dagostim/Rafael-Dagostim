@@ -30,6 +30,14 @@ Full stack developer with a strong backend focus and 5+ years of experience buil
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
+**AI & Automation**
+![AI Agents](https://img.shields.io/badge/AI_Agents-7C3AED?style=flat)
+![RAG Systems](https://img.shields.io/badge/RAG_Systems-7C3AED?style=flat)
+![LLM Integration](https://img.shields.io/badge/LLM_Integration-7C3AED?style=flat)
+![A2A Protocol](https://img.shields.io/badge/A2A_Protocol-7C3AED?style=flat)
+![Google ADK](https://img.shields.io/badge/Google_ADK-4285F4?style=flat&logo=google&logoColor=white)
+![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-FF9900?style=flat&logo=amazonaws&logoColor=white)
+
 ---
 
 ## 🚀 What I'm working on
@@ -44,6 +52,8 @@ Full stack developer with a strong backend focus and 5+ years of experience buil
 
 - Designing and implementing **multi-agent systems** using the A2A protocol on platforms like **Google ADK** and **AWS Bedrock AgentCore**
 - Building specialized agents for corporate process automation, including **email triage** and **invoice management**
+
+---
 
 ## 💼 Experience highlights
 
