@@ -57,6 +57,8 @@ Full stack developer with a strong backend focus and 5+ years of experience buil
 
 ## 💼 Experience highlights
 
+- Designed and implemented **multi-agent systems** using the **A2A protocol** on Google ADK and AWS Bedrock AgentCore
+- Built specialized agents for corporate process automation, including **email triage** and **invoice management**
 - Reduced critical system processing time **from 30s to 5s** through architecture optimization at AGPR5
 - Built **blockchain-integrated REST APIs** for smart contract generation at Liqi Digital Assets
 - Implemented **event-driven microservices** with AWS Lambda, SQS and DynamoDB in a fintech environment
