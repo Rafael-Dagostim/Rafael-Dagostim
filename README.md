@@ -2,7 +2,7 @@
 
 **Backend Developer · AI Agents · AWS Serverless · Node.js · TypeScript**
 
-Full stack developer with a strong backend focus and 5+ years of experience building scalable, secure, and high-performance systems. Passionate about applied AI, clean architecture, and automation. Currently building autonomous AI agents at [LaunchPad Digital](https://www.launchpaddigital.com.br).
+Full stack developer with a strong backend focus and 5+ years of experience building scalable, secure, and high-performance systems. Passionate about applied AI, clean architecture, and automation.
 
 ---
 
