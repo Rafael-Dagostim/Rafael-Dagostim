@@ -40,6 +40,11 @@ Full stack developer with a strong backend focus and 5+ years of experience buil
 
 ---
 
+## 🧠 Latest work
+
+- Designing and implementing **multi-agent systems** using the A2A protocol on platforms like **Google ADK** and **AWS Bedrock AgentCore**
+- Building specialized agents for corporate process automation, including **email triage** and **invoice management**
+
 ## 💼 Experience highlights
 
 - Reduced critical system processing time **from 30s to 5s** through architecture optimization at AGPR5
